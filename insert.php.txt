@@ -2,4 +2,6 @@
 
 insert into table 
 
+select query trying
+
 ?>
